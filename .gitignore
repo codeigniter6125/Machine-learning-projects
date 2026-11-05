@@ -1,0 +1,8 @@
+# Downloaded datasets (re-fetched automatically by torchvision)
+mnist_data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
